@@ -1,0 +1,21 @@
+{
+    "name": "jffalcom/clientes",
+    "description": "Pacote com crud Clientes",
+    "license": "GPL",
+    "authors":[
+        {
+        "name": "JF Falcom Informática",
+        "email": "jffalcom@jffalcom.com.br"
+    }
+],
+    "minimun-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-4": {
+            "Jffalcom\\Clientes\\": "src/"
+        }
+    }
+}
