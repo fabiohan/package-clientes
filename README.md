@@ -9,5 +9,5 @@ Adicionar Service Provider no config/app.php
  >           "Jffalcom\\Clientes\\": "packages/Jffalcom/Clientes/src"
  >       }
 
-###Publicar o pacote
-  php artisan vendor:publish
+### Publicar o pacote
+ > php artisan vendor:publish
