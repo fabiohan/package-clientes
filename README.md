@@ -1,5 +1,5 @@
 # package-clientes
-Adicionar Service Provider no config/app.php
+Adicionar Service Provider no config/app.php:
   Jffalcom\Clientes\ClientesServiceProvider::class
   
  Adicionar no composer.json da aplicação
